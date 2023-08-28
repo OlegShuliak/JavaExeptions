@@ -1,1 +1,1 @@
-# JavaExeptions
+# JavaExceptions
